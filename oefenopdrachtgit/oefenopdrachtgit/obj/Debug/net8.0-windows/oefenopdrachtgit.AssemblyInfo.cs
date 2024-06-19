@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("oefenopdrachtgit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d9626467e7f02f24ac7aff04b6ebf3157a532ca")]
 [assembly: System.Reflection.AssemblyProductAttribute("oefenopdrachtgit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("oefenopdrachtgit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
