@@ -8,19 +8,19 @@
     "net8.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Rafve\\.nuget\\packages\\": {}
+    "C:\\Users\\juul2\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rafve\\Source\\Repos\\OefenGit\\oefenopdrachtgit\\oefenopdrachtgit\\oefenopdrachtgit.csproj",
+      "projectUniqueName": "C:\\Users\\juul2\\Source\\Repos\\OefenGit\\oefenopdrachtgit\\oefenopdrachtgit\\oefenopdrachtgit.csproj",
       "projectName": "oefenopdrachtgit",
-      "projectPath": "C:\\Users\\Rafve\\Source\\Repos\\OefenGit\\oefenopdrachtgit\\oefenopdrachtgit\\oefenopdrachtgit.csproj",
-      "packagesPath": "C:\\Users\\Rafve\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rafve\\Source\\Repos\\OefenGit\\oefenopdrachtgit\\oefenopdrachtgit\\obj\\",
+      "projectPath": "C:\\Users\\juul2\\Source\\Repos\\OefenGit\\oefenopdrachtgit\\oefenopdrachtgit\\oefenopdrachtgit.csproj",
+      "packagesPath": "C:\\Users\\juul2\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\juul2\\Source\\Repos\\OefenGit\\oefenopdrachtgit\\oefenopdrachtgit\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Rafve\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\juul2\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -69,7 +69,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
