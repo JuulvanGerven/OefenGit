@@ -7,8 +7,8 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Button>1</Button>
-        <Button>2</Button>
-        <Button>3</Button>
+        <Button x:Name="blauw">1</Button>
+        <Button  x:Name="rood">2</Button>
+        <Button  x:Name="groen">3</Button>
     </Grid>
 </Window>
