@@ -7,7 +7,8 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Button>jah</Button>
-        <Button>neuh</Button>
+        <Button>1</Button>
+        <Button>2</Button>
+        <Button>3</Button>
     </Grid>
 </Window>
