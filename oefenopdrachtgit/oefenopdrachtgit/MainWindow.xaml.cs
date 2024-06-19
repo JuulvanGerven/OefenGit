@@ -26,5 +26,12 @@ namespace oefenopdrachtgit
         {
             blauw.Background = Brushes.Blue;
         }
+
+        private void rood_Click(object sender, RoutedEventArgs e)
+        {
+            rood.Background = Brushes.Red;
+        }
+
+      
     }
 }
